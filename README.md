@@ -15,7 +15,7 @@ Why? The To-Do List app is often a developer’s first interactive project, and 
 - Skills Covered: JavaScript (DOM manipulation, event handling), local storage to persist data, CSS for styling and layout. You can also practice modularizing code by breaking down functions.
 - Pro Tip: Use CSS transitions for smooth task animations, such as fading tasks in and out when added or deleted.
 ##
-### Product Landing Page for a Brand or Service
+## Product Landing Page for a Brand or Service
 Why? Landing pages are everywhere online and mastering them is critical if you want to work in web development. This project focuses on layout, visual hierarchy, and conversion-centered design.
 
 What to include:
