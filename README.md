@@ -1,9 +1,6 @@
 # ToDo
-A To Do list on things to do and Projects
 
-# ToDo
-
-Read into making a platformer with c# or JS involved
+- Read into making a platformer with c# or JS involved
 
 
 
