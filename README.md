@@ -1,7 +1,8 @@
 # ToDo
 
 - Read into making a platformer with c# or JS involved
-
+- Finish first part of db course work
+- Start part 2 of db course work
 
 
 # Projects
